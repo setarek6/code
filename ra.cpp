@@ -1,8 +1,12 @@
 #include <stdio.h>
+
 #include <string.h>
+
 #include <Windows.h>
 
 int main()
+	
+	
 {
 	system("color 2");
     printf("hello world");
